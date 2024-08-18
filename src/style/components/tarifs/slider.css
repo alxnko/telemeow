@@ -1,0 +1,57 @@
+.tarifsSwiper {
+    padding-top: 10px;
+    height: 400px;
+}
+.swiper-pagination-bullet-active {
+    background-color: var(--hovercolor)!important;
+}
+.tarifsSwiper .swiper-slide {
+    max-width: 380px;
+}
+.tarifsSwiper .swiper-button-next {
+    right: 5px;
+}
+.tarifsSwiper .swiper-button-prev {
+    left: 5px;
+}
+/* .tarifsSwiper .swiper-button-next, .tarifsSwiper .swiper-button-prev {
+    background-color:var(--bgcolor);
+    padding: 5px;
+    border-radius: 10px;
+} */
+.post {
+    scroll-snap-align: center;
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 35px;
+    height: 400px;
+    max-width: 400px;
+    position: relative;
+}
+.post-elem {
+    width: fit-content;
+    height: fit-content;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.postTitle {
+    font-size: 30px;
+}
+.posttext.unlim {
+    font-size: 20px;
+}
+.postPrice {
+    text-align: right;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+.postPrice .cash {
+    padding-top: 20px;
+    font-size: 40px;
+}
+.postHr {
+    width: 100px;
+}

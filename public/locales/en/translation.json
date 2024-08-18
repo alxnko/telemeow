@@ -1,0 +1,49 @@
+{
+  "menu": "Menu",
+  "error404": "Error 404",
+  "error404desc": "Page not found",
+  "mainpage": "Home page",
+  "posts": "Posts",
+  "all": "All",
+  "forall": "For all",
+  "meow": "Meow",
+  "empty": "Empty",
+
+  "terms": "Terms",
+
+  "lang": "Language",
+  "help": "Help",
+  "tarif": "Tarif",
+
+  "tarifs": "Tarifs",
+  "otherTarifs": "Other tarifs",
+  "promotions": "Promotions",
+  "promo1title": "Cashback",
+  "promo1": "get 1 som for every 10 soms spent",
+  "promo2title": "5G",
+  "promo2": "get the fastest internet",
+  "promo3title": "Cats",
+  "promo3": "every one loves cats",
+  "howtoconnect": "Use to subscribe",
+
+  "help1": "I can't connect to the TeleMeow",
+  "help1answ": "To connect you just need to come to our office, a map with offices will open after clicking the \"Connect\" button at the bottom of the page",
+
+  "termsTitle": "This page contains these terms of use of the TeleMeow website. The site guarantees their implementation and asks the same from each of its users, otherwise the person who violates the conditions may be denied services.",
+  "term1": "The TeleMeow website does not collect or store any data about its visitors.",
+  "term2": "Distribution of links leading to this site is permitted only with the consent of the site author.",
+  "term3": "Each site visitor confirms that: He is between 11 and 99 years of age; His birthplace is planet Earth; He agrees that the site does not use cookies; He will never use the services of the TeleMeow mobile operator (exceptions are possible); It is not associated with the dark web and aliens; He will not use the services of the mobile operator TeleMeow to communicate with aliens (exceptions are possible); He has a 4th grade education.",
+  "term4": "Users who have managed to connect to the services of the mobile operator TeleMeow do not have the right to inform anyone about the path to connect to the mobile operator, otherwise they may be denied services.",
+
+  "esimdesc": "Without a physical SIM card",
+  "bestoper": "Best mobile provider",
+  "catdesc": "Like cats - Like TeleMeow",
+  "connect": "Connect",
+  "connectPromo": "Connect to the best connection!",
+  "findOffice": "Find office in your city",
+  "countOfOffices": "We have 0 offices in 0 cities:",
+
+  "populartarifs": "Popular tarifs",
+  "inmonth": "/month",
+  "unlimp": "Unlimited:"
+}
